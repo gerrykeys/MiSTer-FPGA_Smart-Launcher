@@ -1,4 +1,4 @@
-# MiSTer FPGA - Smart Scanner
+# MiSTer FPGA - Smart Launcher
 
 <img src="docs/images/1.png" alt="drawing" width="500"/>
 
