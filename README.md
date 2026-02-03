@@ -50,6 +50,7 @@ ROMs with compatible extensions and compressed in .zip format are supported.<br>
 Generally, MiSTer cores do not support the .zip format.
 However, when MiSTer is used through the native UI interface, it can browse archives as if they were folders and allows selecting the ROM to launch.
 When this happens, MiSTer handles unpacking the ROM and provides it as input to the relevant core.
+**MiSTer FPGA – Smart Launcher** application therefore handles the unpacking of zip files in the same way.<br>
 
 
 <img src="docs/images/2.png" alt="drawing" width="500"/>
