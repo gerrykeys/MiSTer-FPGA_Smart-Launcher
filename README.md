@@ -30,20 +30,39 @@ so that it starts automatically every time the MiSTer powers on or is reset.
 ## Suported Systems
 The followings systems are supported (More systems will be available in future)
 
-| Systems                        | Core (RBF)            | Supported formats      |
-| ------------------------------ |:---------------------:|:----------------------:|
-| Arcade                         | _Arcade/cores         | .mra                   |
-| Neo Geo                        | _Console/NeoGeo       | .neo                   |
-| Nintendo / Famicom             | _Console/NES          | .nes                   |
-| Nintendo 64                    | _Console/N64          | .z64, .n64             |
-| Nintendo Game Boy              | _Console/Gameboy      | .gb                    |
-| Nintendo Game Boy Advance      | _Console/GBA          | .gba                   |
-| Nintendo Game Boy Color        | _Console/Gameboy      | .gbc                   |
-| Sega Master System             | _Console/SMS          | .sms                   |
-| Sega Mega Drive                | _Console/MegaDrive    | .bin, .gen, .md        |
-| Sega Genesis                   | _Console/Genesis      | .bin, .gen, .md        |
-| Super Nintendo / Super Famicom | _Console/SNES         | .sfc                   |
-| PC Engine / Turbo Grafx16      | _Console/TurboGrafx16 | .bin, .pce             |
+| Systems                         | Core (RBF)            | Supported formats                                 |
+| --------------------------------|:---------------------:|:-------------------------------------------------:|
+| Amiga                           | _Computer/Minimig     | .adf                                              |
+| Amstrad                         | _Computer/Amstrad     | .dsk .e?? .cdt                                    |
+| Apple II                        | _Computer/Apple-II    | .nib .dsk .do .po .hdv                            |
+| Arcade                          | _Arcade/cores         | .mra                                              |
+| Atari 2600                      | _Console/Atari7800    | .a78 .a26 .bin                                    |
+| Atari 5200                      | _Console/Atari5200    | .car .a52 .bin .rom                               |
+| Atari 7800                      | _Console/Atari7800    | .a78 .bin                                         |
+| Atari 800                       | _Computer/Atari800    | .atr .xex .atx .xfd .car .rom .bin                |
+| Atari Lynx                      | _Console/AtariLynx    | .lnx .lyx                                         |
+| Coleco Vision                   | _Console/ColecoVision | .col .bin .rom                                    |
+| Commodore 64                    | _Computer/C64         | .d64 .g64 .t64 .d81 .prg .crt .reu .tap           |
+| Commodore VIC20                 | _Computer/VIC20       | .d64 .g64 .prg .crt .ct? .tap .rom                |
+| Nintendo Game Boy               | _Console/Gameboy      | .gb                                               |
+| Nintendo Game Boy Advance       | _Console/GBA          | .gba                                              |
+| Nintendo Game Boy Color         | _Console/Gameboy      | .gbc                                              |
+| Sega Genesis                    | _Console/Genesis      | .bin .gen .md                                     |
+| Sega Master System              | _Console/SMS          | .sms                                              |
+| Sega Mega Drive                 | _Console/MegaDrive    | .bin .gen .md                                     |
+| MSX 1                           | _Computer/MSX1        | .rom                                              |
+| Neo Geo                         | _Console/NeoGeo       | .neo                                              |
+| Nintendo / Famicom              | _Console/NES          | .nes                                              |
+| Nintendo 64                     | _Console/N64          | .z64 .n64                                         |
+| Sony Playstation                | _Console/PSX          | .cue .bin .img .chd                               |
+| Sega Saturn                     | _Console/Saturn       | .cue .bin .img .chd                               |
+| Sega Mega CD                    | _Console/MegaCD       | .chd                                              |
+| Super Nintendo / Super Famicom  | _Console/SNES         | .sfc                                              |
+| Spectrum                        | _Computer/ZX-Spectrum | .trd .img .dsk .mgt .tap .csw .tzx .z80 .sna .vhd |
+| PC Engine / Turbo Grafx16       | _Console/TurboGrafx16 | .bin .pce                                         |
+| PC Engine CD / Turbo Grafx16 CD | _Console/TurboGrafx16 | .cue .bin .img .chd                               |
+| Vectrex                         | _Console/Vectrex      | .vec .bin .rom                                    |
+| Sharp X68000                    | _Computer/X68000      | .d88 .hdf .ram                                    |
 
 ## Roms in .Zip archive
 ROMs with compatible extensions and compressed in .zip format are supported.<br>
